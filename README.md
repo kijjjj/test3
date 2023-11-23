@@ -14,4 +14,4 @@
 
 # 마크다운연습
 # [깃허브 주소](https://github.com/kijjjj)
-![대체텍스트](./test.jpg)
+![대체텍스트](./IMG_6501.jpg)
